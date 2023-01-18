@@ -1,5 +1,10 @@
 # HS_Chocolate_Pizza
 
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
 ## Outline
 This assignment is meant to simulate a real world HTML and CSS project.  Read the following overview and instructions in their entirety before beginning.
 
